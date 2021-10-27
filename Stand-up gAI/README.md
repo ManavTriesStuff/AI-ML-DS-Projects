@@ -1,0 +1,2 @@
+Trying to see if I can get an AI to generate the script of a stand-up comedy show, using data I gathered from multiple Netflix specials and other transcripts.
+All data was put into a single txt file with no indication of the comedian's names (maybe using a variety of styles was a bad idea). The model itself is an RNN with LSTM that remembers context and tries to replicate the script in the same fashion. 
